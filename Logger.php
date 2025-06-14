@@ -5,7 +5,7 @@
  * 
  * @author Logger Simple Team
  * @license MIT
- * @link https://github.com/logger-simple/logger-php
+ * @link https://github.com/logger-simple/php-logger-simple
  */
 
 class LoggerSimple
