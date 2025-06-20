@@ -30,12 +30,6 @@ Official PHP client for Logger Simple API. A simple and robust solution to send 
 require_once 'path/to/Logger.php';
 ```
 
-### Via Composer (Future)
-
-```bash
-composer require logger-simple/php-client
-```
-
 ## ⚙️ Quick Setup
 
 ```php
